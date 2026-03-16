@@ -8,6 +8,6 @@ The book can be purchased through [Asterism](https://asterismbooks.com/product/n
 
 It also has a great cover, which was designed by a really talented person named [Nick Greer](https://nick-greer.com/): 
 
-  <img src="https://double--negative.com/b/001/cover.avif" width=40% height=40%/>
+  <img src="https://double--negative.com/b/001/cover.avif" width=40% height=40% />
 
 I love getting emails! Please feel free to [write me here](mailto:revelatory@gmail.com).
