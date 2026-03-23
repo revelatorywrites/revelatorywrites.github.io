@@ -10,4 +10,4 @@ It also has a great cover, which was designed by a really talented person named 
 
   <img src="https://double--negative.com/b/001/cover.avif" width="329.75" height="500" />
 
-I love getting emails! Please feel free to [write me here](mailto:revelatory@gmail.com).
+I live in Tucson, Arizona, with my family. I also like getting emails. It makes me feel [sound of electricity humming] connected. Please feel free to [write me here](mailto:revelatory@gmail.com).
